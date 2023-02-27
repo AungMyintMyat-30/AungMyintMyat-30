@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Asp.Net Web Developer from Myanmar</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
+- 🔭 I’m currently working on **something cool!**
+- 
 - 💬 Ask me about **Asp.Net, C#, SQL ...**
 
 - 📫 How to reach me **aungmmyat30599@gmail.com**
