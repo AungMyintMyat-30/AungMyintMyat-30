@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **something cool!**
 
-- 💬 Ask me about **Asp.Net, C#, SQL ...**
+- 💬 Ask me about **Asp.Net, C#, Angular, SQL ...**
 
 - 📫 How to reach me **aungmmyat30599@gmail.com**
 
