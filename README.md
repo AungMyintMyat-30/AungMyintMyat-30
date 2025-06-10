@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Myint Myat</h1>
-<h3 align="center">A passionate Asp.Net Web Developer from Myanmar</h3>
+<h3 align="center">A passionate .Net Developer from Myanmar</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 I’m currently working on **something cool!**
